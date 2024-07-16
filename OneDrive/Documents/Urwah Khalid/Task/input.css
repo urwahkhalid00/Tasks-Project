@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
+  
+input{ 
+    height: 35px; 
+    cursor: pointer; 
+    box-shadow: 0 0 .5em #111; 
+} 
+.enlarge{
+    text-align: center;
+    
+}
